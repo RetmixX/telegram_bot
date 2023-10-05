@@ -1,0 +1,6 @@
+/target
+.env
+.idea
+check_place.jpg
+intruder.jpg
+Cargo.lock
